@@ -1,4 +1,4 @@
-# java-game
+# Shadow Dimension - The Java game
  A Java 2-level game called "*Shadow Dimension*", inspired by Stranger Things. The rule
  of the game is simple: follow the level instruction and don't die!
  
